@@ -1,0 +1,15 @@
+################################################
+#              Powerboosts Config              #
+################################################
+
+# Maximum amount of powerboosts per faction
+maxPowerboosts: 5
+
+# Powerboost price multiplier (%)
+multiplier: 2.8
+
+# Amount of power given by powerboost
+powerGiven: 10
+
+# Base price for powerboosts
+basePrice: 100000
